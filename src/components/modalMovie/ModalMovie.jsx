@@ -6,7 +6,7 @@ const StyledModal = styled(Modal)`
   height: 350px; 
   position: absolute;
   z-index: 1000;
-  left: 42%;
+  left: 50%;
   sub: 50%;
   top: 10%;
   width: 300px;
